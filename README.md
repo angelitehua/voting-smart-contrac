@@ -23,4 +23,4 @@ A minimal voting smart contract written in Solidity. Built as an educational pro
 
 1. Open the contract in [Remix](https://remix.ethereum.org)
 2. Compile with Solidity `>=0.6.12 <0.9.0`
-3. In the deploy field, pass an array of proposal names, for example:
+3. In the deploy field, pass an array of proposal names, for example: ["Pizza","Tacos","Hot Dogs"]
